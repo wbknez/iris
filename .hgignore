@@ -1,0 +1,8 @@
+syntax: glob
+
+gradlew
+gradlew.bat
+
+build/**
+gradle/**
+target/**
