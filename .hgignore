@@ -12,3 +12,6 @@ target/**
 
 # Block all CMake files.
 cmake-build*/
+
+# Block makeshift temp directory.
+temp/
