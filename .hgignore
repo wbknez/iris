@@ -6,3 +6,9 @@ gradlew.bat
 build/**
 gradle/**
 target/**
+
+# Block all data files.
+*.csv
+
+# Block all CMake files.
+cmake-build*/
